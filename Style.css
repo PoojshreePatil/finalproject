@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+.topnav1{
+    font-size: larger;
+    text-align: left;
+    justify-content: space-evenly;
+
+}
+.topnav2 input{
+    width: 50px;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: center;
+    width: 50%;
+    background: white;
+}
+.shopping-categories{
+    /* display:flex; */
+    margin-top: 30px;
+}
+
+.Itmes1{
+display: flex;
+flex-wrap: wrap;
+flex-direction: row;
+}
